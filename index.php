@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
-    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     
 
     <link href="css/core.css?v=fFhjG36LCtzu3SlV2PGlpkpDGKxYYCKkhzQUGlH_i9A1" rel="stylesheet"/>
@@ -93,41 +93,12 @@
 <li class="menu-item-has-children">
     <a href="/about-us">About Us</a>
 </li>
-<li class="menu-item-has-children megamenu-menu">
-    <a href="/airlines">Airlines</a>
-    <div class="megamenu-wrapper container" data-items-per-column="3">
-        <div class="megamenu-holder">
-            <ul class="megamenu">
-                <li class="menu-item-has-children">
-                    
-                    <ul class="clearfix">
-                        <li><a href="/airlines/air-france">Air France</a></li>
-                        <li><a href="/airlines/air-india">Air India</a></li>
-                        <li><a href="/airlines/asiana-airlines">Asiana Airlines</a></li>
-                        <li><a href="/airlines/cathay-pacific">Cathay Pacific</a></li>
-                        <li><a href="/airlines/etihad-airways">Ehihad Airways</a></li>
 
-                        <li><a href="/airlines/emirates">Emirates</a></li>
-                        <li><a href="/airlines/kuwait-airways">Kuwait Airways</a></li>
-                        <li><a href="/airlines/oman-air">Oman Air</a></li>
-                        <li><a href="/airlines/philippine-airlines">Philippine Airlines</a></li>
-                        <li><a href="/airlines/pia">PIA</a></li>
-
-                        <li><a href="/airlines/qatar-airways">Qatar Airways</a></li>
-                        <li><a href="/airlines/saudi-arabian-airlienes">Saudi Arabian Airlines</a></li>
-                        <li><a href="/airlines/singapore-airlines">Singapore Airlines</a></li>
-                        <li><a href="/airlines/thai-airways">Thai Airways</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-</li>
 <li class="menu-item-has-children">
     <a href="/page/hajj">Hajj</a>
     <ul>
-            <li><a href="/package/hajj-2019">HAJJ 2019 </a></li>
-            <li><a href="/package/hajj-2019-non-shifting-5-package">Hajj 2019 Non Shifting 5* Package </a></li>
+        <li><a href="/package/hajj-2019">HAJJ 2019 </a></li>
+        <li><a href="/package/hajj-2019-non-shifting-5-package">Hajj 2019 Non Shifting 5* Package </a></li>
         
     </ul>
 </li>
@@ -232,15 +203,9 @@
     </div>
 </header>
 
-        
 
-        
-
-        
-
-
-
-<div id="fb-root"></div>
+<!-- <div id="fb-root"></div> -->
+<div id="small-margin-slider"></div>
 
  <div id="home-slider">
       <div class="slide">
@@ -259,7 +224,7 @@
       </div>
    </div>
    <div class="slide">
-      <img src="slides/3.jpeg" />
+      <img src="slides/3.jpg" />
       <!--NO Description Here-->
    </div>
    <div class="slide">
@@ -279,7 +244,7 @@
  </div>
 </div>
 
-<section id="content">
+<!-- <section id="content">
 
 
     <div class="section package-list bg-primary-gradient">
@@ -523,7 +488,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -641,8 +606,8 @@
           slideSelector: '.slide',
           delay:5000,
           animationSpeed:2000,
-          showNextPrev:true,
-          showPlayButton:true,
+          showNextPrev:false,
+          showPlayButton:false,
           autoSlide:true,
           animationType:'fading'
       });
