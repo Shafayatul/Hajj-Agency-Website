@@ -40,7 +40,9 @@
 }
 
 .skdslider .slide-desc {
-    background: url("image/slide_desc.png") repeat scroll 0 0 transparent;
+    background: #000;
+    opacity: .8;
+    border-radius: 3px;
     left: 0;
     padding: 0 15px 0 15px;
     position: absolute;
@@ -50,7 +52,6 @@
 }
 .skdslider .slide-desc > h2 {
     color: #CFDB0C;
-    font-family: 'Oswald';
     font-size: 25px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -59,7 +60,6 @@
 
 .skdslider .slide-desc > p {
     color: #FFFFFF;
-    font-family: 'Oswald';
     font-size: 16px;
     line-height: 20px;
     margin-top: 5px;
