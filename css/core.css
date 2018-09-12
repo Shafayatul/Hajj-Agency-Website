@@ -16,7 +16,7 @@ body {
     background-color: #F8F8F8;
 }
 
-/*#ae8b38 - dark yellow (old)  , 
+/*#D4AF37 - dark yellow (old)  , 
 #393F44 - gray*/
 
 
@@ -12218,7 +12218,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #ae8b38;
+    color: #D4AF37;
     text-decoration: none
 }
 
@@ -12243,7 +12243,7 @@ h3.active,
 h4.active,
 h5.active,
 h6.active {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .info-primary,
@@ -12472,7 +12472,7 @@ img.full-width {
 }
 
 .blue-color {
-    color: #ae8b38!important
+    color: #D4AF37!important
 }
 
 .light-blue-color {
@@ -12480,7 +12480,7 @@ img.full-width {
 }
 
 .yellow-color {
-    color: #ae8b38!important
+    color: #D4AF37!important
 }
 
 .red-color {
@@ -12500,7 +12500,7 @@ img.full-width {
 }
 
 .skin-color {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .default-color {
@@ -12512,19 +12512,19 @@ img.full-width {
 }
 
 .hotel-color {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .select-color {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .blue-bg {
-    background-color: #ae8b38!important
+    background-color: #D4AF37!important
 }
 
 .yellow-bg {
-    background-color: #ae8b38!important
+    background-color: #D4AF37!important
 }
 
 .red-bg {
@@ -12544,7 +12544,7 @@ img.full-width {
 }
 
 .skin-bg {
-    background-color: #ae8b38!important
+    background-color: #D4AF37!important
 }
 
 .gray-bg {
@@ -12583,7 +12583,6 @@ section#content {
     min-height: 400px;
     padding-top: 40px;
     text-align: left;
-    background: #f5f5f5
 }
 
 section#content:after {
@@ -12711,7 +12710,7 @@ article {
 }
 
 .box-title small [class^="soap-icon"] {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1.3333em
 }
 
@@ -12724,7 +12723,7 @@ h1.box-title small {
 }
 
 .s-title {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .s-title a:hover {
@@ -12871,7 +12870,7 @@ select option {
 }
 
 .selector.style1 span.custom-select:after {
-    border-top-color: #ae8b38
+    border-top-color: #D4AF37
 }
 
 .fileinput {
@@ -12942,7 +12941,7 @@ select option {
 
 .checkbox.checked:before,
 .radio.checked:before {
-    border-color: #ae8b38;
+    border-color: #D4AF37;
     color: #fff;
     background: #FFFFFF;
     content: ""
@@ -13165,7 +13164,7 @@ a.button.silver {
 
 button.sky-blue1,
 a.button.sky-blue1 {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 button.sky-blue1:hover,
@@ -13175,7 +13174,7 @@ a.button.sky-blue1:hover {
 
 button.yellow,
 a.button.yellow {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 button.yellow:hover,
@@ -13267,7 +13266,7 @@ a.button.btn-extra {
     background: transparent;
     color: #fff;
     line-height: 1.5em;
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     border-left: none;
     position: relative;
     overflow: hidden;
@@ -13297,7 +13296,7 @@ a.button.btn-extra>i:after {
     content: "";
     position: absolute;
     left: 55px;
-    border-bottom: 70px solid #ae8b38;
+    border-bottom: 70px solid #D4AF37;
     border-right: 16px solid transparent;
     top: 0;
     bottom: 0
@@ -13313,7 +13312,7 @@ a.button.btn-extra>span {
 
 button.btn-extra>span em,
 a.button.btn-extra>span em {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1.6667em;
     font-weight: bold;
     font-style: normal
@@ -13334,42 +13333,42 @@ a.button.btn-extra:hover>i {
 
 button.btn-extra.blue,
 a.button.btn-extra.blue {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 button.btn-extra.blue>i,
 a.button.btn-extra.blue>i {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 button.btn-extra.blue>i:after,
 a.button.btn-extra.blue>i:after {
-    border-bottom-color: #ae8b38
+    border-bottom-color: #D4AF37
 }
 
 button.btn-extra.blue>span em,
 a.button.btn-extra.blue>span em {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 button.btn-extra.yellow,
 a.button.btn-extra.yellow {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 button.btn-extra.yellow>i,
 a.button.btn-extra.yellow>i {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 button.btn-extra.yellow>i:after,
 a.button.btn-extra.yellow>i:after {
-    border-bottom-color: #ae8b38
+    border-bottom-color: #D4AF37
 }
 
 button.btn-extra.yellow>span em,
 a.button.btn-extra.yellow>span em {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .icon-check {
@@ -13499,7 +13498,7 @@ a.button.btn-extra.yellow>span em {
 }
 
 .alert.alert-info {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .alert.alert-info:before {
@@ -13536,12 +13535,12 @@ a.button.btn-extra.yellow>span em {
 
 .info-box {
     padding: 20px 25px;
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     position: relative
 }
 
 .info-box .close {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .info-box p {
@@ -13568,7 +13567,7 @@ dl.term-description dd {
 
 dl.term-description dt {
     border-right: 1px solid #f5f5f5;
-    color: #ae8b38;
+    color: #D4AF37;
     font-weight: 400;
     padding-right: 5px;
     clear: both
@@ -13586,7 +13585,7 @@ dl.term-description:after {
 
 .dropcap:first-letter {
     float: left;
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 4.153em;
     line-height: .8667em;
     padding: 0;
@@ -13651,7 +13650,7 @@ blockquote.style2 p {
 }
 
 blockquote.style1 {
-    border-left: 3px solid #ae8b38;
+    border-left: 3px solid #D4AF37;
     position: relative
 }
 
@@ -13659,7 +13658,7 @@ blockquote.style1>span.triangle:before {
     text-indent: 0;
     content: "";
     font-family: FontAwesome;
-    color: #ae8b38;
+    color: #D4AF37;
     position: absolute;
     left: -1px;
     top: 50%;
@@ -13673,38 +13672,38 @@ blockquote.style1:after {
 }
 
 blockquote.style1.border-color-blue {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 blockquote.style1.border-color-blue>span.triangle:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 blockquote.style1.border-color-yellow {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 blockquote.style1.border-color-yellow>span.triangle:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 blockquote.style1.quote-color-blue:before,
 blockquote.style1.quote-color-blue:after {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 blockquote.style1.quote-color-yellow:before,
 blockquote.style1.quote-color-yellow:after {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 blockquote.style2 {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 blockquote.style2:before,
 blockquote.style2:after {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .pagination {
@@ -13748,12 +13747,12 @@ blockquote.style2:after {
 .pagination>li>span:hover,
 .pagination>li>span:focus {
     color: #fff;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pagination>li.active>a,
 .pagination>li.active>span {
-    background: #ae8b38!important
+    background: #D4AF37!important
 }
 
 .pagination>li.first,
@@ -13778,7 +13777,7 @@ blockquote.style2:after {
 .pagination>li.prev>a:hover,
 .pagination>li.next>a:hover,
 .pagination>li.last>a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pagination>li.first.disabled>a,
@@ -13885,7 +13884,7 @@ blockquote.style2:after {
 }
 
 .hover-effect.style1:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .hover-effect.style1:hover img {
@@ -13901,7 +13900,7 @@ blockquote.style2:after {
     position: relative;
     background: 0;
     overflow: hidden;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .selected-effect img {
@@ -13959,7 +13958,7 @@ blockquote.style2:after {
 }
 
 .social-icons li a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .social-icons li:last-child {
@@ -13975,7 +13974,7 @@ blockquote.style2:after {
 }
 
 .social-icons.style1 a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .social-icons.style2 a {
@@ -14088,7 +14087,7 @@ blockquote.style2:after {
 .time [class^="soap-icon"] {
     float: left;
     font-size: 18px;
-    color: #ae8b38;
+    color: #D4AF37;
     margin-right: 5px
 }
 
@@ -14204,8 +14203,8 @@ blockquote.style2:after {
     -moz-border-radius: 50% 50% 50% 50%;
     -ms-border-radius: 50% 50% 50% 50%;
     border-radius: 50% 50% 50% 50%;
-    border: 1px solid #ae8b38;
-    color: #ae8b38;
+    border: 1px solid #D4AF37;
+    color: #D4AF37;
     line-height: 32px;
     text-align: center;
     position: absolute;
@@ -14214,7 +14213,7 @@ blockquote.style2:after {
 }
 
 .travelo-box.twitter-box .twitter-holder>ul li .tweet-text a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .travelo-box.twitter-box .twitter-holder>ul li .tweet-text a:hover {
@@ -14226,11 +14225,11 @@ blockquote.style2:after {
 }
 
 .travelo-box.contact-box .contact-details .contact-phone {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .travelo-box.contact-box .contact-details .contact-phone>i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .travelo-box.contact-box .contact-details .contact-email {
@@ -14248,7 +14247,7 @@ blockquote.style2:after {
 .travelo-box.contact-us-box .contact-address li>i {
     position: absolute;
     font-size: 1.5em;
-    color: #ae8b38;
+    color: #D4AF37;
     left: 0;
     top: 12px
 }
@@ -14333,7 +14332,7 @@ blockquote.style2:after {
 }
 
 .travelo-box.about-travelo-box .title {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .travelo-box.guarantee-box {
@@ -14361,7 +14360,7 @@ blockquote.style2:after {
 
 .travelo-box.insurance-benefits ul li.active:before,
 .travelo-box.insurance-benefits ul.hover li:hover:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .contact-details {
@@ -14374,11 +14373,11 @@ blockquote.style2:after {
 }
 
 .contact-details .contact-phone i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .contact-details .contact-email {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1.1667em;
     padding: 0 24px;
     line-height: 2em
@@ -14569,7 +14568,7 @@ ul.upper-latin li.active,
 ul.upper-latin li.active:before,
 ul.upper-latin.hover li:hover,
 ul.upper-latin.hover li:hover:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.arrow.hover li,
@@ -14613,7 +14612,7 @@ ul.check-circle li:before {
 ul.arrow li:before {
     content: "";
     margin-right: 10px;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.triangle li:before {
@@ -14630,20 +14629,20 @@ ul.triangle li.active:before,
 ul.triangle.hover li:hover,
 ul.triangle.hover li:hover .box-title,
 ul.triangle.hover li:hover:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.circle li:before {
     content: "";
     margin-right: 10px;
-    color: #ae8b38;
+    color: #D4AF37;
     display: block;
     float: left;
     font-size: 5px
 }
 
 ul.circle.bullet-yellow li:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.circle.bullet-green li:before {
@@ -14651,7 +14650,7 @@ ul.circle.bullet-green li:before {
 }
 
 ul.circle.bullet-blue li:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.check li:before {
@@ -14674,13 +14673,13 @@ ul.chevron li:before {
     margin-top: -10px;
     line-height: 20px;
     content: "";
-    color: #ae8b38;
+    color: #D4AF37;
     display: block;
     width: 20px;
     height: 20px;
     text-align: center;
     font-size: 10px;
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     -webkit-border-radius: 50% 50% 50% 50%;
     -moz-border-radius: 50% 50% 50% 50%;
     -ms-border-radius: 50% 50% 50% 50%;
@@ -14723,7 +14722,7 @@ ul.upper-latin {
 ul.upper-roman.bullet-colored li,
 ul.lower-latin.bullet-colored li,
 ul.upper-latin.bullet-colored li {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.upper-roman.bullet-colored li>*,
@@ -14752,7 +14751,7 @@ ul.check-square li.active>a {
 
 ul.check-square li.active:before {
     background: #fff;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 ul.check-circle li:before {
@@ -14855,7 +14854,7 @@ ul.check-circle li:before {
 .toggle-container .panel.style1 .panel-title>a.collapsed:before {
     content: "";
     color: #fff;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .toggle-container .panel.style1 .panel-content {
@@ -14895,7 +14894,7 @@ ul.check-circle li:before {
     display: block;
     line-height: normal;
     padding: 15px 20px;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .toggle-container .panel.style2 .panel-title>a.collapsed {
@@ -14904,7 +14903,7 @@ ul.check-circle li:before {
 }
 
 .toggle-container .panel.style2 .panel-title>a.collapsed:hover {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .toggle-container .panel.style2 .panel-title>a:after {
@@ -14926,7 +14925,7 @@ ul.check-circle li:before {
 .toggle-container .panel.style2 .panel-title>a.collapsed:after {
     content: "";
     color: #fff;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .toggle-container .panel.style2 .panel-content {
@@ -14934,7 +14933,7 @@ ul.check-circle li:before {
 }
 
 .toggle-container.with-image>.image-container {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .toggle-container.with-image>.image-container>img {
@@ -15009,7 +15008,7 @@ ul.check-circle li:before {
 
 .tab-container ul.tabs li.active>a,
 .tab-container ul.tabs li:hover>a {
-    color: #ae8b38;
+    color: #D4AF37;
     background: #fff
 }
 
@@ -15097,7 +15096,7 @@ ul.check-circle li:before {
     bottom: -5px;
     left: 50%;
     margin-left: -10px;
-    border-top: 5px solid #ae8b38;
+    border-top: 5px solid #D4AF37;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
     content: ""
@@ -15152,7 +15151,7 @@ ul.check-circle li:before {
     -moz-opacity: .8;
     -khtml-opacity: .8;
     opacity: .8;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .tab-container.trans-style ul.tabs li a:hover i {
@@ -15167,12 +15166,12 @@ ul.check-circle li:before {
     -moz-opacity: 1;
     -khtml-opacity: 1;
     opacity: 1;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .tab-container.trans-style ul.tabs li a:hover i,
 .tab-container.trans-style ul.tabs li.active a i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .tab-container.full-width-style ul.tabs {
@@ -15253,7 +15252,7 @@ ul.check-circle li:before {
 
 .tab-container.full-width-style.arrow-left ul.tabs li.active a {
     margin-right: 0;
-    border-left: 2px solid #ae8b38;
+    border-left: 2px solid #D4AF37;
     position: relative
 }
 
@@ -15264,7 +15263,7 @@ ul.check-circle li:before {
     left: 0;
     top: 50%;
     margin-top: -5px;
-    border-left: 3px solid #ae8b38;
+    border-left: 3px solid #D4AF37;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent
 }
@@ -15279,7 +15278,7 @@ ul.check-circle li:before {
 }
 
 .tab-container.full-width-style .tab-content .tab-content-title {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .tab-container.full-width-style:after {
@@ -15484,7 +15483,7 @@ ul.check-circle li:before {
 
 .photo-gallery .flex-control-nav>li a.flex-active {
     background: #FFFFFF;
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 .photo-gallery.style1 .flex-control-nav {
@@ -15610,7 +15609,7 @@ ul.check-circle li:before {
 }
 
 .image-carousel.style1 .flex-direction-nav li a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .image-carousel.style1 .flex-direction-nav li a:before {
@@ -15873,7 +15872,7 @@ ul.check-circle li:before {
 
 .image-style.style2 .title {
     font-size: 1.25em;
-    color: #ae8b38;
+    color: #D4AF37;
     margin-top: 20px
 }
 
@@ -16064,7 +16063,7 @@ ul.check-circle li:before {
 
 .image-box.style5 figure figcaption span,
 .image-box.style11 figure figcaption span {
-    color: #ae8b38;
+    color: #D4AF37;
     text-transform: uppercase;
     font-size: .8333em;
     letter-spacing: .04em
@@ -16479,7 +16478,7 @@ ul.check-circle li:before {
 
 .icon-box.style2 {
     line-height: 1.75em;
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: .9167em;
     display: inline-block
 }
@@ -16487,7 +16486,7 @@ ul.check-circle li:before {
 .icon-box.style2>i {
     font-size: 1.5em;
     margin-right: 10px;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .icon-box.style3 {
@@ -16614,7 +16613,7 @@ ul.check-circle li:before {
     width: 60px;
     height: 60px;
     line-height: 60px;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .icon-box.style7>i.glyphicon {
@@ -16674,7 +16673,7 @@ ul.check-circle li:before {
 }
 
 .icon-box.style10 {
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     margin-top: 20px;
     padding: 45px 20px 20px;
     position: relative;
@@ -16723,7 +16722,7 @@ ul.check-circle li:before {
 
 .icon-box.style11>.icon-wrapper>i,
 .icon-box.style12>.icon-wrapper>i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .icon-box.style11>.details,
@@ -16758,7 +16757,7 @@ ul.check-circle li:before {
 }
 
 .icon-box.style12>.icon-wrapper>i {
-    border-color: #ae8b38;
+    border-color: #D4AF37;
     background: #FFFFFF;
     color: #fff;
     font-size: 1.5em
@@ -17044,7 +17043,7 @@ ul.check-circle li:before {
 .listing-style3.car .amenities ul li:hover,
 .listing-style3.car .amenities ul li:hover .glyphicon,
 .listing-style3.car .amenities ul li:hover [class^="soap-icon"] {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .listing-style1.car .amenities ul li:hover [class^="soap-icon"]:before,
@@ -17120,7 +17119,7 @@ ul.check-circle li:before {
 }
 
 .listing-style3 [class^="soap-icon"].circle:hover {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .listing-style3 [class^="soap-icon"].circle:hover:before {
@@ -17224,7 +17223,7 @@ ul.check-circle li:before {
 }
 
 .listing-style3.flight .stop:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .listing-style3.flight .amenities {
@@ -17577,7 +17576,7 @@ ul.check-circle li:before {
 }
 
 .pricing-table.yellow {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pricing-table.yellow .header {
@@ -17589,11 +17588,11 @@ ul.check-circle li:before {
 }
 
 .pricing-table.yellow .features li:before {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pricing-table.blue {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pricing-table.blue .header {
@@ -17605,7 +17604,7 @@ ul.check-circle li:before {
 }
 
 .pricing-table.blue .features li:before {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .pricing-table.red {
@@ -17772,7 +17771,7 @@ ul.check-circle li:before {
 
 .blog-infinite .post-meta .entry-author a.author,
 .single .post-meta .entry-author a.author {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .blog-infinite .post-meta .entry-action,
@@ -17889,7 +17888,7 @@ ul.check-circle li:before {
 
 .about-author .wrote-posts-count i {
     font-size: 1.8333em;
-    color: #ae8b38;
+    color: #D4AF37;
     float: left;
     margin-right: 10px
 }
@@ -17951,7 +17950,7 @@ ul.check-circle li:before {
 }
 
 .single .suggestions li:hover a.hover-effect {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .single .suggestions li:hover img {
@@ -17968,7 +17967,7 @@ ul.check-circle li:before {
 }
 
 .single .suggestions li:hover .caption {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .comment-list .the-comment {
@@ -18032,7 +18031,7 @@ ul.check-circle li:before {
 .testimonial.style1 .description,
 .testimonial.style2 .description {
     font-size: 1.3333em;
-    color: #ae8b38;
+    color: #D4AF37;
     font-style: italic
 }
 
@@ -18094,7 +18093,7 @@ ul.check-circle li:before {
 
 .testimonial.style1 .testimonial-control-nav>li a.testimonial-active {
     background: #FFFFFF;
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 .testimonial.style1:after {
@@ -18206,11 +18205,11 @@ ul.check-circle li:before {
 
 .testimonial.style3 .description:before,
 .testimonial.style3 .description:after {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .testimonial.style3 .name {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .testimonial.style3 .name:before {
@@ -18236,7 +18235,7 @@ ul.check-circle li:before {
     width: 40px;
     text-indent: -9999px;
     background: #fff;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .testimonial.style3 .testimonial-direction-nav .testimonial-prev:before,
@@ -18319,7 +18318,7 @@ ul.check-circle li:before {
 }
 
 .team figure figcaption>.social-icons>li a:hover {
-    color: #ae8b38;
+    color: #D4AF37;
     filter: alpha(opacity=100);
     -ms-filter: "alpha(opacity=100)";
     -moz-opacity: 1;
@@ -18449,7 +18448,7 @@ ul.check-circle li:before {
 }
 
 .style-changer .style-changer-header .style-toggle>.fa {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .style-changer .style-chagner-main {
@@ -18503,11 +18502,11 @@ ul.check-circle li:before {
 }
 
 .style-changer .style-chagner-main .design-skins li.light-blue {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 .style-changer .style-chagner-main .design-skins li.light-blue a {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .style-changer .style-chagner-main .design-skins li.purple {
@@ -18735,7 +18734,7 @@ ul.check-circle li:before {
 }
 
 #header .mobile-menu-toggle {
-    background: url(../images/icon/mobile-menu.png) no-repeat center center #ae8b38;
+    background: url(../images/icon/mobile-menu.png) no-repeat center center #D4AF37;
     padding: 0;
     margin: 0;
     height: 66px;
@@ -18781,7 +18780,7 @@ ul.check-circle li:before {
     display: block;
     width: 130px;
     height: 30px;
-    background: url("../images/logo_txt.png") no-repeat #ae8b38;
+    background: url("../images/logo_txt.png") no-repeat #D4AF37;
     content: "";
     top: 0;
     right: 0
@@ -19129,7 +19128,7 @@ ul.check-circle li:before {
 }
 
 #header.style6 .main-navigation {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #header.style6 #main-menu>ul.menu {
@@ -19224,7 +19223,7 @@ ul.check-circle li:before {
 }
 
 #header.style7 .contact-details i {
-    color: #ae8b38;
+    color: #D4AF37;
     vertical-align: middle
 }
 
@@ -19402,13 +19401,13 @@ ul.check-circle li:before {
 
 #main-menu ul.menu>li.active>a,
 .chaser ul.menu>li.active>a {
-    color: #ae8b38;
+    color: #D4AF37;
     font-weight: bold
 }
 
 #main-menu ul.menu>li:hover>a,
 .chaser ul.menu>li:hover>a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #main-menu ul.menu>li>ul.left,
@@ -19482,7 +19481,7 @@ ul.check-circle li:before {
 
 #main-menu ul.menu>li.menu-color-blue ul,
 .chaser ul.menu>li.menu-color-blue ul {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #main-menu ul.menu>li.menu-color-blue ul li,
@@ -19499,7 +19498,7 @@ ul.check-circle li:before {
 
 #main-menu ul.menu>li.menu-color-yellow ul,
 .chaser ul.menu>li.menu-color-yellow ul {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #main-menu ul.menu>li.menu-color-yellow ul li,
@@ -19593,7 +19592,7 @@ ul.check-circle li:before {
     display: table;
     table-layout: fixed;
     width: 100%;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #main-menu ul.menu>.megamenu-menu ul.megamenu li.menu-item-has-children.active>a,
@@ -19691,7 +19690,7 @@ ul.check-circle li:before {
     white-space: normal;
     padding-right: 0;
     font-size: .9167em;
-    border-bottom: 1px solid #ae8b38;
+    border-bottom: 1px solid #D4AF37;
     position: relative;
     padding-left: 40px
 }
@@ -19716,7 +19715,7 @@ ul.check-circle li:before {
 
 #main-menu ul.menu .megamenu-menu.menu-color-blue ul.megamenu,
 .chaser ul.menu .megamenu-menu.menu-color-blue ul.megamenu {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-color-blue ul.megamenu ul.sub-menu li li a,
@@ -19733,7 +19732,7 @@ ul.check-circle li:before {
 
 #main-menu ul.menu .megamenu-menu.menu-color-yellow ul.megamenu,
 .chaser ul.menu .megamenu-menu.menu-color-yellow ul.megamenu {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-color-yellow ul.megamenu ul.sub-menu li li a,
@@ -19767,7 +19766,7 @@ ul.check-circle li:before {
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light .megamenu-wrapper,
 .chaser ul.menu .megamenu-menu.menu-skin-light .megamenu-wrapper {
-    border: 2px solid #ae8b38
+    border: 2px solid #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light ul.megamenu,
@@ -19798,31 +19797,31 @@ ul.check-circle li:before {
 #main-menu ul.menu .megamenu-menu.menu-skin-light ul.megamenu ul.sub-menu li li.active>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light ul.megamenu ul.sub-menu li li:hover>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light ul.megamenu ul.sub-menu li li.active>a:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-blue .megamenu-wrapper,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-blue .megamenu-wrapper {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-blue ul.megamenu ul.sub-menu li li:hover>a:before,
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-blue ul.megamenu ul.sub-menu li li.active>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-blue ul.megamenu ul.sub-menu li li:hover>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-blue ul.megamenu ul.sub-menu li li.active>a:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow .megamenu-wrapper,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow .megamenu-wrapper {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow ul.megamenu ul.sub-menu li li:hover>a:before,
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow ul.megamenu ul.sub-menu li li.active>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow ul.megamenu ul.sub-menu li li:hover>a:before,
 .chaser ul.menu .megamenu-menu.menu-skin-light.menu-color-yellow ul.megamenu ul.sub-menu li li.active>a:before {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #main-menu ul.menu .megamenu-menu.menu-skin-light.menu-color-green .megamenu-wrapper,
@@ -19839,7 +19838,7 @@ ul.check-circle li:before {
 
 ul.menu.mini {
     min-width: 180px;
-    border: 2px solid #ae8b38;
+    border: 2px solid #D4AF37;
     background: #fff
 }
 
@@ -19866,7 +19865,7 @@ ul.menu.mini li.active {
 
 ul.menu.mini li:hover a,
 ul.menu.mini li.active a {
-    color: #ae8b38;
+    color: #D4AF37;
     font-weight: bold
 }
 
@@ -19917,14 +19916,14 @@ ul.menu.mini li.active a {
 .menu-color-blue ul.menu.mini,
 .menu-color-yellow ul.menu.mini,
 .menu-color-green ul.menu.mini {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .menu-color-skin ul.menu.mini li a,
 .menu-color-blue ul.menu.mini li a,
 .menu-color-yellow ul.menu.mini li a,
 .menu-color-green ul.menu.mini li a {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 .menu-color-skin ul.menu.mini li:hover,
@@ -19935,11 +19934,11 @@ ul.menu.mini li.active a {
 .menu-color-blue ul.menu.mini li.active,
 .menu-color-yellow ul.menu.mini li.active,
 .menu-color-green ul.menu.mini li.active {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .menu-color-blue ul.menu.mini {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .menu-color-blue ul.menu.mini li a {
@@ -19952,7 +19951,7 @@ ul.menu.mini li.active a {
 }
 
 .menu-color-yellow ul.menu.mini {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .menu-color-yellow ul.menu.mini li a {
@@ -20011,7 +20010,7 @@ ul.menu.mini li.active a {
 
 #header .mobile-menu>ul.menu>li>a {
     font-size: 1.1667em;
-    border-top: 1px solid #ae8b38
+    border-top: 1px solid #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li>a {
@@ -20024,7 +20023,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu>ul.menu>li.menu-item-has-children.open {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li.menu-item-has-children>.dropdown-toggle {
@@ -20055,7 +20054,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu>ul.menu>li.menu-item-has-children>a {
-    border-top: 1px solid #ae8b38
+    border-top: 1px solid #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li.menu-item-has-children.open>a {
@@ -20085,7 +20084,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu>ul.menu>li.menu-item-has-children>ul {
-    border-top: 1px solid #ae8b38
+    border-top: 1px solid #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li:first-child>a {
@@ -20093,7 +20092,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu>ul.menu>li:last-child>a {
-    border-bottom: 1px solid #ae8b38
+    border-bottom: 1px solid #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li>ul li>a {
@@ -20130,7 +20129,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu>ul.menu>li>ul li.menu-item-has-children>ul {
-    border-bottom: 1px solid #ae8b38
+    border-bottom: 1px solid #D4AF37
 }
 
 #header .mobile-menu>ul.menu>li>ul li.menu-item-has-children:last-child>ul {
@@ -20209,7 +20208,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu.menu-color-blue {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #header .mobile-menu.menu-color-blue ul.menu>li.menu-item-has-children>a {
@@ -20222,7 +20221,7 @@ ul.menu.mini li.active a {
 
 #header .mobile-menu.menu-color-blue ul.menu>li.menu-item-has-children.open>a,
 #header .mobile-menu.menu-color-blue ul.menu>li.menu-item-has-children>ul {
-    border-top-color: #ae8b38
+    border-top-color: #D4AF37
 }
 
 #header .mobile-menu.menu-color-blue ul.menu>li:last-child>a {
@@ -20230,11 +20229,11 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu.menu-color-blue ul.menu>li>ul li.menu-item-has-children>ul {
-    border-bottom-color: #ae8b38
+    border-bottom-color: #D4AF37
 }
 
 #header .mobile-menu.menu-color-yellow {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #header .mobile-menu.menu-color-yellow ul.menu>li.menu-item-has-children>a {
@@ -20247,7 +20246,7 @@ ul.menu.mini li.active a {
 
 #header .mobile-menu.menu-color-yellow ul.menu>li.menu-item-has-children.open>a,
 #header .mobile-menu.menu-color-yellow ul.menu>li.menu-item-has-children>ul {
-    border-top-color: #ae8b38
+    border-top-color: #D4AF37
 }
 
 #header .mobile-menu.menu-color-yellow ul.menu>li:last-child>a {
@@ -20255,7 +20254,7 @@ ul.menu.mini li.active a {
 }
 
 #header .mobile-menu.menu-color-yellow ul.menu>li>ul li.menu-item-has-children>ul {
-    border-bottom-color: #ae8b38
+    border-bottom-color: #D4AF37
 }
 
 #header .mobile-menu.menu-color-green {
@@ -20338,7 +20337,7 @@ ul.menu.mini li.active a {
 
 .travelo-signup-box,
 .travelo-login-box {
-    border: 2px solid #ae8b38;
+    border: 2px solid #D4AF37;
     width: 300px;
     margin: 0 auto;
     display: none
@@ -20432,7 +20431,7 @@ ul.menu.mini li.active a {
 .travelo-login-box .goto-login,
 .travelo-login-box .goto-signup,
 .travelo-login-box .signup-email {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1.0833em
 }
 
@@ -20456,7 +20455,7 @@ ul.menu.mini li.active a {
 }
 
 .travelo-login-box .forgot-password {
-    color: #ae8b38;
+    color: #D4AF37;
     text-decoration: underline
 }
 
@@ -20544,7 +20543,7 @@ ul.menu.mini li.active a {
 }
 
 .page-title-container .breadcrumbs li a:hover {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .page-title-container .breadcrumbs li:after {
@@ -20621,7 +20620,7 @@ ul.menu.mini li.active a {
 }
 
 .page-title-container.style2 .breadcrumbs li.active {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .page-title-container.style2 .breadcrumbs li {
@@ -20801,7 +20800,7 @@ ul.menu.mini li.active a {
 }
 
 .page-title-container.style5 .breadcrumbs li a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .page-title-container.style5 .breadcrumbs li:before {
@@ -20812,7 +20811,7 @@ ul.menu.mini li.active a {
     -moz-border-radius: 50% 50% 50% 50%;
     -ms-border-radius: 50% 50% 50% 50%;
     border-radius: 50% 50% 50% 50%;
-    color: #ae8b38;
+    color: #D4AF37;
     border: 1px solid;
     line-height: 12px;
     text-align: center;
@@ -20873,7 +20872,7 @@ ul.menu.mini li.active a {
 }
 
 .page-title-container.style5 .social-icons a i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .page-title-container.style6 {
@@ -21092,7 +21091,7 @@ ul.search-tabs li.active a {
     -moz-opacity: 1;
     -khtml-opacity: 1;
     opacity: 1;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .visible-mobile .search-tabs li {
@@ -21100,7 +21099,7 @@ ul.search-tabs li.active a {
 }
 
 .visible-mobile .search-tabs li a {
-    color: #ae8b38;
+    color: #D4AF37;
     filter: alpha(opacity=100);
     -ms-filter: "alpha(opacity=100)";
     -moz-opacity: 1;
@@ -21255,14 +21254,14 @@ ul.search-tabs li.active a {
 }
 
 .search-box-wrapper.style1 .search-box>ul.search-tabs li.active>a>i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .search-box-wrapper.style1 .search-box>ul.search-tabs li.active>a:after {
     content: "";
     position: absolute;
     right: 15px;
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 20px
 }
 
@@ -21376,14 +21375,14 @@ ul.search-tabs li.active a {
 }
 
 .search-box-wrapper.style2 .search-box>ul.search-tabs li.advanced-search>a {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .search-box-wrapper.style2 .search-box>ul.search-tabs li.active>a {
     margin-bottom: 0;
     height: 40px;
     background: #fff;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .search-box-wrapper.style2 .search-tab-content {
@@ -21513,7 +21512,7 @@ ul.search-tabs li.active a {
 }
 
 .sort-by-section .sort-bar li.active .sort-by-container>span:after {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .sort-by-section .swap-tiles {
@@ -21568,7 +21567,7 @@ ul.search-tabs li.active a {
 }
 
 .search-results-title>i {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 20px;
     margin-right: 10px
 }
@@ -21617,7 +21616,7 @@ ul.search-tabs li.active a {
 }
 
 .filters-container ul.filters-option li.active {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .filters-container ul.filters-option li.active a {
@@ -21730,7 +21729,7 @@ ul.search-tabs li.active a {
 #flight-main-content .calendar table thead td,
 #cruise-main-content .calendar table thead td {
     text-align: center;
-    color: #ae8b38;
+    color: #D4AF37;
     text-transform: uppercase;
     font-size: .8333em;
     text-indent: -5px;
@@ -21820,8 +21819,8 @@ ul.search-tabs li.active a {
 #flight-main-content .calendar table tbody td.date-passed>span,
 #cruise-main-content .calendar table tbody td.date-passed>a,
 #cruise-main-content .calendar table tbody td.date-passed>span {
-    border-color: #ae8b38;
-    color: #ae8b38
+    border-color: #D4AF37;
+    color: #D4AF37
 }
 
 #hotel-main-content .calendar table tbody td.date-passed>a:before,
@@ -21889,7 +21888,7 @@ ul.search-tabs li.active a {
 #hotel-main-content .calendar-legend label.past:before,
 #flight-main-content .calendar-legend label.past:before,
 #cruise-main-content .calendar-legend label.past:before {
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 #hotel-description .intro,
@@ -22003,7 +22002,7 @@ ul.search-tabs li.active a {
     width: 110px;
     border-right: 1px solid #f5f5f5;
     margin-right: 20px;
-    color: #ae8b38;
+    color: #D4AF37;
     white-space: nowrap
 }
 
@@ -22173,7 +22172,7 @@ ul.search-tabs li.active a {
 
 #hotel-faqs .topics li.active,
 #flight-fare-rules .topics li.active {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .image-box.style2.activities .details {
@@ -22315,12 +22314,12 @@ ul.search-tabs li.active a {
 #cruise-write-review .sort-trip li.active i {
     background: #FFFFFF;
     color: #fff;
-    border-color: #ae8b38
+    border-color: #D4AF37
 }
 
 #hotel-write-review .sort-trip li.active>span,
 #cruise-write-review .sort-trip li.active>span {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #hotel-write-review .sort-trip li:hover i,
@@ -22362,7 +22361,7 @@ ul.search-tabs li.active a {
 .overall-rating .star-rating .status:before {
     display: block;
     content: "";
-    border-right: 15px solid #ae8b38;
+    border-right: 15px solid #D4AF37;
     border-top: 11px solid transparent;
     border-bottom: 11px solid transparent;
     position: absolute;
@@ -22385,7 +22384,7 @@ ul.search-tabs li.active a {
 }
 
 .detailed-rating li label {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .detailed-rating li .five-stars-container {
@@ -22435,7 +22434,7 @@ ul.search-tabs li.active a {
 }
 
 .guest-review .comment-container .comment-title {
-    color: #ae8b38;
+    color: #D4AF37;
     float: left;
     font-style: italic
 }
@@ -22518,7 +22517,7 @@ ul.search-tabs li.active a {
 
 .booking-details .timing .duration {
     font-weight: bold;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .booking-details .timing .duration>div {
@@ -22537,7 +22536,7 @@ ul.search-tabs li.active a {
 }
 
 .booking-details .timing label {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1em;
     margin-bottom: 0;
     font-weight: normal
@@ -22569,7 +22568,7 @@ ul.search-tabs li.active a {
     float: left;
     text-align: left;
     margin: 0;
-    color: #ae8b38;
+    color: #D4AF37;
     clear: both
 }
 
@@ -22589,7 +22588,7 @@ ul.search-tabs li.active a {
 }
 
 .booking-information>.booking-confirmation>.icon {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 1.5em;
     float: left;
     margin-right: 12px;
@@ -22601,7 +22600,7 @@ ul.search-tabs li.active a {
 }
 
 .booking-information>.booking-confirmation .main-message {
-    color: #ae8b38;
+    color: #D4AF37;
     margin-bottom: 0;
     letter-spacing: .04em
 }
@@ -22691,7 +22690,7 @@ ul.search-tabs li.active a {
 }
 
 .flight-detail-page .detailed-logo .duration i {
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 20px;
     margin-right: 10px;
     line-height: 0;
@@ -22847,7 +22846,7 @@ ul.search-tabs li.active a {
 .explore-more .intro i {
     float: left;
     margin-right: 10px;
-    color: #ae8b38;
+    color: #D4AF37;
     font-size: 16px
 }
 
@@ -22913,7 +22912,7 @@ ul.search-tabs li.active a {
 }
 
 #car-details .car-features .icon-box>i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 #car-details .protect-passengers .icon-box {
@@ -22981,7 +22980,7 @@ ul.search-tabs li.active a {
 }
 
 .cruise-line-deals .box-title small {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .cruise-line-deals .box {
@@ -23044,7 +23043,7 @@ ul.search-tabs li.active a {
 }
 
 .cruise-itinerary th {
-    color: #ae8b38;
+    color: #D4AF37;
     font-weight: normal;
     padding-bottom: 10px
 }
@@ -23104,7 +23103,7 @@ ul.search-tabs li.active a {
 #hotel-availability .room-list .box-title dt,
 #cruise-availability .room-list .box-title dt,
 #cruise-food-dinning .food-dinning-list .box-title dt {
-    color: #ae8b38;
+    color: #D4AF37;
     margin-right: 5px;
     clear: both
 }
@@ -23249,7 +23248,7 @@ ul.search-tabs li.active a {
 }
 
 #dashboard .fact.blue {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #dashboard .fact.blue .description {
@@ -23257,7 +23256,7 @@ ul.search-tabs li.active a {
 }
 
 #dashboard .fact.yellow {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 #dashboard .fact.yellow .description {
@@ -23302,7 +23301,7 @@ ul.search-tabs li.active a {
 }
 
 #dashboard .notifications .price {
-    color: #ae8b38;
+    color: #D4AF37;
     float: none;
     text-align: left;
     display: inline;
@@ -23612,7 +23611,7 @@ ul.search-tabs li.active a {
     left: 50%;
     margin-left: -3px;
     font-size: 20px;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .dashboard #footer .footer-wrapper #main-menu ul.menu>li:first-child.active>a:before,
@@ -23656,8 +23655,8 @@ ul.search-tabs li.active a {
 .dashboard.style1 #content ul.tabs li.active a i,
 .post-404page.style1 #content ul.tabs li.active a i,
 .soap-login-page.style1 #content ul.tabs li.active a i {
-    border-color: #ae8b38;
-    color: #ae8b38
+    border-color: #D4AF37;
+    color: #D4AF37
 }
 
 .dashboard.style1 #footer .copyright,
@@ -23678,7 +23677,7 @@ ul.search-tabs li.active a {
 .post-404page.style1 #footer #main-menu ul.menu>li.active>a,
 .soap-login-page.style1 #footer #main-menu ul.menu>li:hover>a,
 .soap-login-page.style1 #footer #main-menu ul.menu>li.active>a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .dashboard.style2,
@@ -23694,13 +23693,13 @@ ul.search-tabs li.active a {
 .dashboard.style2 #content ul.tabs li a,
 .post-404page.style2 #content ul.tabs li a {
     background: rgba(189, 0, 0, .7);
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .dashboard.style2 #content ul.tabs li a i,
 .post-404page.style2 #content ul.tabs li a i {
-    border-color: #ae8b38;
-    color: #ae8b38
+    border-color: #D4AF37;
+    color: #D4AF37
 }
 
 .dashboard.style2 #content ul.tabs li.active a,
@@ -23711,18 +23710,18 @@ ul.search-tabs li.active a {
 
 .dashboard.style2 #content ul.tabs li.active a i,
 .post-404page.style2 #content ul.tabs li.active a i {
-    border-color: #ae8b38;
-    color: #ae8b38
+    border-color: #D4AF37;
+    color: #D4AF37
 }
 
 .dashboard.style2 #footer .copyright,
 .post-404page.style2 #footer .copyright {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .dashboard.style2 #footer #main-menu ul.menu>li>a,
 .post-404page.style2 #footer #main-menu ul.menu>li>a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .dashboard.style2 #footer #main-menu ul.menu>li:hover>a,
@@ -23771,11 +23770,11 @@ ul.search-tabs li.active a {
 }
 
 .ui-slider.slider-color-yellow .ui-slider-range {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-slider.slider-color-blue .ui-slider-range {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-slider.slider-color-green .ui-slider-range {
@@ -23867,11 +23866,11 @@ button.ui-button::-moz-focus-inner {
     height: 100%;
     text-align: center;
     line-height: 34px;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .datepicker-wrap.yellow:after {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .datepicker-wrap.green:after {
@@ -23879,7 +23878,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .datepicker-wrap.blue:after {
-    background-color: #ae8b38
+    background-color: #D4AF37
 }
 
 .datepicker-wrap.dark-blue:after {
@@ -23888,7 +23887,7 @@ button.ui-button::-moz-focus-inner {
 
 .datepicker-wrap.transparent:after {
     background-color: transparent;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .ui-datepicker {
@@ -23896,14 +23895,14 @@ button.ui-button::-moz-focus-inner {
     padding: 0;
     display: none;
     background: #fff;
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     z-index: 101!important
 }
 
 .ui-datepicker .ui-datepicker-header {
     position: relative;
     padding: .2em 0;
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-datepicker .ui-datepicker-prev,
@@ -23989,7 +23988,7 @@ button.ui-button::-moz-focus-inner {
     text-align: center;
     font-size: 1.1667em;
     font-weight: normal;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .ui-datepicker span.ui-datepicker-month {
@@ -24020,20 +24019,20 @@ button.ui-button::-moz-focus-inner {
 }
 
 .ui-datepicker.yellow {
-    border: 1px solid #ae8b38
+    border: 1px solid #D4AF37
 }
 
 .ui-datepicker.yellow .ui-datepicker-header {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-datepicker.yellow th span {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .ui-datepicker.yellow .ui-datepicker-calendar td.ui-datepicker-today a,
 .ui-datepicker.yellow .ui-datepicker-calendar td a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-datepicker.green {
@@ -24054,20 +24053,20 @@ button.ui-button::-moz-focus-inner {
 }
 
 .ui-datepicker.blue {
-    border: 1px solid #ae8b38
+    border: 1px solid #D4AF37
 }
 
 .ui-datepicker.blue .ui-datepicker-header {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-datepicker.blue th span {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .ui-datepicker.blue .ui-datepicker-calendar td.ui-datepicker-today a,
 .ui-datepicker.blue .ui-datepicker-calendar td a:hover {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .ui-datepicker.dark-blue {
@@ -24158,7 +24157,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 #footer .bottom #back-to-top i {
-    border-color: #ae8b38;
+    border-color: #D4AF37;
     font-weight: bold;
     overflow: hidden
 }
@@ -24816,9 +24815,9 @@ button.ui-button::-moz-focus-inner {
 }
 
 .service-page .services article:hover>i {
-    box-shadow: 0 0 0 4px #ae8b38;
+    box-shadow: 0 0 0 4px #D4AF37;
     background: #fff;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .service-page .services article:hover>i:before {
@@ -24863,7 +24862,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .items-container .box:hover .details {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .items-container .box:hover .details .box-title {
@@ -24899,7 +24898,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .filters-container ul.categories-filter li.active a small {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .faqs .search-questions {
@@ -24950,7 +24949,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .faqs .faq-comment-container .faq-comment-header .button.active {
-    background: #ae8b38
+    background: #D4AF37
 }
 
 .faqs .faq-comment-container .fag-comment-content {
@@ -24973,7 +24972,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .faqs.style1 .filters-option li.active a {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .faqs.style1 .filters-option li:last-child {
@@ -25033,7 +25032,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .sitemap .column {
-    border: 1px solid #ae8b38;
+    border: 1px solid #D4AF37;
     border-left: none;
     position: relative;
     margin-bottom: 40px;
@@ -25055,7 +25054,7 @@ button.ui-button::-moz-focus-inner {
 .sitemap .column.sitemap-columns-2>ul {
     width: 48%;
     float: left;
-    border-right: 1px solid #ae8b38
+    border-right: 1px solid #D4AF37
 }
 
 .sitemap .column.sitemap-columns-2>ul:last-child {
@@ -25115,14 +25114,14 @@ button.ui-button::-moz-focus-inner {
     font-weight: 300;
     line-height: 1.25em;
     text-align: center;
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .post-404page .error-message-404 {
     font-weight: 100;
     font-size: 25em;
     text-align: center;
-    color: #ae8b38;
+    color: #D4AF37;
     line-height: 1.0833em
 }
 
@@ -25350,7 +25349,7 @@ button.ui-button::-moz-focus-inner {
 }
 
 .sidebar .widget-queries li a:hover i {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .sidebar .widget-queries li i {
@@ -25465,7 +25464,7 @@ button.ui-button::-moz-focus-inner {
 
 .travel-story-container .travel-story-meta .travel-miles i {
     font-size: 1.8333em;
-    color: #ae8b38;
+    color: #D4AF37;
     margin-right: 8px;
     float: left
 }
@@ -25568,7 +25567,7 @@ button.ui-button::-moz-focus-inner {
 
 .suggested-places ul.check-square li:hover .box-title,
 .suggested-places ul.check-square li.active .box-title {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .travel-ideas .idea-title .index {
@@ -25739,7 +25738,7 @@ label.required::after {
 }
 
 .theme-text {
-    color: #ae8b38
+    color: #D4AF37
 }
 
 .bg-madina-night {
@@ -25821,7 +25820,7 @@ label.required::after {
 }
 
 .table thead tr th {
-    background-color: #ae8b38;
+    background-color: #D4AF37;
     color: #fff;
     font-size: 105%;
     border-bottom: 0
@@ -25833,7 +25832,7 @@ label.required::after {
 }
 
 .table.side-bordered {
-    border: solid 1px #ae8b38
+    border: solid 1px #D4AF37
 }
 
 #hotel-availability .room-list .box,
@@ -25886,7 +25885,7 @@ input.input-text:hover,
 input.input-text:active,
 textarea.input-text:hover,
 textarea.input-text:active {
-    border: solid 2px #ae8b38
+    border: solid 2px #D4AF37
 }
 
 .listing-style3.flight .details {
@@ -25982,7 +25981,7 @@ input.input-validation-error:active {
 }
 
 .amenities.style1 .icon-box:hover>i {
-    background-color: #ae8b38
+    background-color: #D4AF37
 }
 
 .room-list .room {
@@ -26093,7 +26092,7 @@ input.input-validation-error:active {
     padding: 10px 0;
     margin: 20px 0;
     font-size: 18px;
-    color: #ae8b38;
+    color: #D4AF37;
     font-weight: bold
 }
 
@@ -26169,9 +26168,6 @@ input.input-validation-error:active {
     height: 50px
 }
 
-section#content {
-    background-color: #181a1c
-}
 
 ul.search-tabs li a {
     filter: alpha(opacity=80);
@@ -27691,4 +27687,33 @@ ul.terms {
     width: 100%;
     height: 20px;
     background-image: linear-gradient(#7E7E7E, #F8F8F8, #F8F8F8, #F8F8F8);
+}
+
+.title-package-home{
+    background-color: #323232;
+    color: #FFF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.span-title{
+    color: #FFF;
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing:0.08em;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+}
+
+
+.btn-gold, .btn-gold:hover, .btn-gold:active, .btn-gold:visited {
+    background-color: #D4AF37 !important;
+    color: #FFF;
+}
+
+.font_6{
+    display: block;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }

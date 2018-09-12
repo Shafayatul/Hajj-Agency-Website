@@ -243,6 +243,179 @@
  </div>
 </div>
 
+<section id="content">
+    <h6 class="font_6" style="font-size:61px; text-align:center;">
+        <a href="" target="_self">
+            <span style="text-shadow:rgba(0, 0, 0, 0.4) 0px 4px 5px;">
+                <span style="font-size:61px;">
+                    <span style="font-family:caudex,serif;">
+                        <span style="color:#F29E02;">
+                            <span style="letter-spacing:0.25em;">HAJJ&nbsp;PACKAGES</span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </a>
+    </h6>
+
+    <div class="container">
+        <div class="row image-box style7">
+
+            <div class="col-md-10 col-md-offset-1">
+                
+                <div class=" col-xs-12 col-sm-6 col-md-4">
+                  <article class="box">
+                    <a href="" target="_blank">
+                        <img src="img/package.png" alt="Fjords" style="width:100%">
+                        <div class="text-center title-package-home">
+                            <span class="span-title">Package Title</span>  
+                            <span class="span-sub-title">Little description here</span>
+                        </div>
+                        <div class="details">
+                            <h4><a href="#">Best Price Guarantee</a></h4>
+                            <p>
+                                We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                                <br>
+                                <br>
+                            </p>
+                            <button class="btn btn-gold btn-block">See Detail</button>
+                        </div>
+                    </a>
+                  </article>
+                </div>
+                <div class=" col-xs-12 col-sm-6 col-md-4">
+                  <article class="box">
+                    <a href="" target="_blank">
+                        <img src="img/package.png" alt="Fjords" style="width:100%">
+                        <div class="text-center title-package-home">
+                            <span class="span-title">Package Title</span>  
+                            <span class="span-sub-title">Little description here</span>
+                        </div>
+                        <div class="details">
+                            <h4><a href="#">Best Price Guarantee</a></h4>
+                            <p>
+                                We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                                <br>
+                                <br>
+                            </p>
+                            <button class="btn btn-gold btn-block">See Detail</button>
+                        </div>
+                    </a>
+                  </article>
+                </div>
+                <div class=" col-xs-12 col-sm-6 col-md-4">
+                  <article class="box">
+                    <a href="" target="_blank">
+                        <img src="img/package.png" alt="Fjords" style="width:100%">
+                        <div class="text-center title-package-home">
+                            <span class="span-title">Package Title</span>  
+                            <span class="span-sub-title">Little description here</span>
+                        </div>
+                        <div class="details">
+                            <h4><a href="#">Best Price Guarantee</a></h4>
+                            <p>
+                                We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                                <br>
+                                <br>
+                            </p>
+                            <button class="btn btn-gold btn-block">See Detail</button>
+                        </div>
+                    </a>
+                  </article>
+                </div>
+
+            </div>
+
+
+
+        </div>        
+    </div>
+</section>
+
+
+<section id="content">
+    <h6 class="font_6" style="font-size:61px; text-align:center;">
+        <a href="" target="_self">
+            <span style="text-shadow:rgba(0, 0, 0, 0.4) 0px 4px 5px;">
+                <span style="font-size:61px;">
+                    <span style="font-family:caudex,serif;">
+                        <span style="color:#F29E02;">
+                            <span style="letter-spacing:0.25em;">UMRAH&nbsp;PACKAGES</span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </a>
+    </h6>
+
+    <div class="container">
+        <div class="row image-box style7">
+
+            <div class=" col-xs-12 col-sm-6 col-md-4">
+              <article class="box">
+                <a href="" target="_blank">
+                    <img src="img/package.png" alt="Fjords" style="width:100%">
+                    <div class="text-center title-package-home">
+                        <span class="span-title">Package Title</span>  
+                        <span class="span-sub-title">Little description here</span>
+                    </div>
+                    <div class="details">
+                        <h4><a href="#">Best Price Guarantee</a></h4>
+                        <p>
+                            We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                            <br>
+                            <br>
+                        </p>
+                        <button class="btn btn-gold btn-block">See Detail</button>
+                    </div>
+                </a>
+              </article>
+            </div>
+            <div class=" col-xs-12 col-sm-6 col-md-4">
+              <article class="box">
+                <a href="" target="_blank">
+                    <img src="img/package.png" alt="Fjords" style="width:100%">
+                    <div class="text-center title-package-home">
+                        <span class="span-title">Package Title</span>  
+                        <span class="span-sub-title">Little description here</span>
+                    </div>
+                    <div class="details">
+                        <h4><a href="#">Best Price Guarantee</a></h4>
+                        <p>
+                            We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                            <br>
+                            <br>
+                        </p>
+                        <button class="btn btn-gold btn-block">See Detail</button>
+                    </div>
+                </a>
+              </article>
+            </div>
+            <div class=" col-xs-12 col-sm-6 col-md-4">
+              <article class="box">
+                <a href="" target="_blank">
+                    <img src="img/package.png" alt="Fjords" style="width:100%">
+                    <div class="text-center title-package-home">
+                        <span class="span-title">Package Title</span>  
+                        <span class="span-sub-title">Little description here</span>
+                    </div>
+                    <div class="details">
+                        <h4><a href="#">Best Price Guarantee</a></h4>
+                        <p>
+                            We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
+                            <br>
+                            <br>
+                        </p>
+                        <button class="btn btn-gold btn-block">See Detail</button>
+                    </div>
+                </a>
+              </article>
+            </div>
+        </div>        
+    </div>
+</section>
+
+
 <!-- <section id="content">
 
 
@@ -491,7 +664,7 @@
 
 
 
-<footer id="footer">
+<!-- <footer id="footer">
     <div class="footer-wrapper">
         <div class="container">
             <div class="row">
@@ -575,7 +748,7 @@
             </div>
         </div>
     </div>
-</footer>
+</footer> -->
 </div>
 
 <script src="js/jquery.min.js"></script>
