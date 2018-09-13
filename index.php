@@ -39,6 +39,12 @@
     <!-- Slider -->
     <link href="src/skdslider.css" rel="stylesheet">
 
+    <!-- news ticker -->
+    <link href="css/ticker.css" rel="stylesheet">
+
+    <!-- news flexisel -->
+    <link href="css/flexisel.css" rel="stylesheet">
+
 
 
 
@@ -60,14 +66,48 @@
         <header id="header" class="navbar-static-top">
     <div class="topnav hidden-xs">
         <div class="container">
-            <ul class="quick-menu pull-left">
+            <!-- <ul class="quick-menu pull-left">
                 <li><a href="tel:+44 20 7377 0119"><i class="fa fa-phone"></i>&nbsp;&nbsp;+44 20 7377 0119</a></li>
                 <li><a href="mailto:info@bismillah-hajj.com" style="text-transform: none;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@bismillah-hajj.com</a></li>
                 
-            </ul>
-            <ul class="quick-menu pull-right">
+            </ul> -->
+            <div style="width: 100%; display: block; overflow: hidden;">
+                <div style="width: 80%; float: left">
+                    <div class="ticker-container">
+                      <div class="ticker-caption">
+                        <p>Scheduled Tour</p>
+                      </div>
+                      <ul>
+                        <div>
+                          <li><span>[01 Aug, 2018] - Tour name or title &ndash; <a href="#" class=" btn-gold">Detail</a></span></li>
+                        </div>
+
+                        <div>
+                          <li><span>[01 Aug, 2018] - Tour name or title &ndash; <a href="#" class=" btn-gold">Detail</a></span></li>
+                        </div>
+
+                        <div>
+                          <li><span>[01 Aug, 2018] - Tour name or title &ndash; <a href="#" class=" btn-gold">Detail</a></span></li>
+                        </div>
+
+                        <div>
+                          <li><span>[01 Aug, 2018] - Tour name or title &ndash; <a href="#" class=" btn-gold">Detail</a></span></li>
+                        </div>
+
+
+                      </ul>
+                    </div>
+                </div>
+                <div style="width: 20%; float: right;">
+                    <ul class="quick-menu pull-left">
+                        <li><a href="tel:+44 20 7377 0119"><i class="fa fa-phone"></i>&nbsp;&nbsp;01919929292, 01913920240</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- <ul class="quick-menu pull-right">
                 <li><a href="/Booking/MyBooking">My Bookings</a></li>
-            </ul>
+            </ul> -->
         </div>
     </div>
 
@@ -413,354 +453,32 @@
             </div>
         </div>        
     </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul id="flexiselDemo2"> 
+                    <li><img src="img/small-slider/logo-adidas.png" /></li>   
+                    <li><img src="img/small-slider/logo-nike.png" /></li> 
+                    <li><img src="img/small-slider/logo-amazon.png" /></li> 
+                    <li><img src="img/small-slider/logo-spotify.png" /></li> 
+                    <li><img src="img/small-slider/logo-android.png" /></li>                                                                          
+                </ul>
+                       
+                <div class="clearout"></div>
+            </div>
+        </div>
+    </div>
 </section>
 
-
-<!-- <section id="content">
-
-
-    <div class="section package-list bg-primary-gradient">
-        <div class="container-fluid">
-            <h4 class="text-center pkg-title">Hajj <span>Packages</span></h4>
-            <div class="row image-box hotel listing-style1 row-centered">
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <article class="box well-package">
-                        <figure>
-                            <a href="/package/hajj-2019" class="hover-effect">
-                                <img src="http://cdn.bismillah-hajj.com/sites/bhu/img/" class="stc-pkg-img" alt="HAJJ 2019 " />
-                            </a>
-                        </figure>
-                        <div class="details">
-                            <span class="price">
-                                <small>Offer Price</small>
-                                &#163;5,995.00
-                            </span>
-                            <h4 class="box-title text-center">HAJJ 2019 </h4>
-                            <div class="feedback">
-                                <div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="5 Stars"><span style="width: 100%;" class="five-stars"></span></div>
-                            </div>
-                            <div class="description">HAJJ 2019 COMING SOON.....</div>
-                            <div class="action">
-                                <a class="button btn-small green full-width" href="/package/hajj-2019" >Show Package Detail</a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <article class="box well-package">
-                        <figure>
-                            <a href="/package/hajj-2019-non-shifting-5-package" class="hover-effect">
-                                <img src="http://cdn.bismillah-hajj.com/sites/bhu/img/3adf026bced94d5cacf64ffd57f3cb92_18_636720138248620231.jpg" class="stc-pkg-img" alt="Hajj 2019 Non Shifting 5* Package " />
-                            </a>
-                        </figure>
-                        <div class="details">
-                            <span class="price">
-                                <small>Offer Price</small>
-                                &#163;6,900.00
-                            </span>
-                            <h4 class="box-title text-center">Hajj 2019 Non Shifting 5* Package </h4>
-                            <div class="feedback">
-                                <div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="5 Stars"><span style="width: 100%;" class="five-stars"></span></div>
-                            </div>
-                            <div class="description">Hajj 2019 Non Shifting 5* Package</div>
-                            <div class="action">
-                                <a class="button btn-small green full-width" href="/package/hajj-2019-non-shifting-5-package" >Show Package Detail</a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-
-    <div class="section package-list bg-primary-gradient">
-        <div class="container-fluid">
-            <h4 class="text-center pkg-title">Islamic <span>Tour</span></h4>
-            <div class="row image-box hotel listing-style1 row-centered">
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <article class="box well-package">
-                        <figure>
-                            <a href="/package/springlake-leisure" class="hover-effect">
-                                <img src="http://cdn.bismillah-hajj.com/sites/bhu/img/" class="stc-pkg-img" alt="Springlake Leisure" />
-                            </a>
-                        </figure>
-                        <div class="details">
-                            <span class="price">
-                                <small>Offer Price</small>
-                                &#163;75.00
-                            </span>
-                            <h4 class="box-title text-center">Springlake Leisure</h4>
-                            <div class="feedback">
-                                <div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="4 Stars"><span style="width: 80%;" class="five-stars"></span></div>
-                            </div>
-                            <div class="description">However you spend your days at Springlake, you are sure to enjoy the surroundings. Over 5 acres of private grounds provide plenty of opportunity for walkers, artists, and the wildlife enthusiast.</div>
-                            <div class="action">
-                                <a class="button btn-small green full-width" href="/package/springlake-leisure" >Show Package Detail</a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <article class="box well-package">
-                        <figure>
-                            <a href="/package/aqsa-february-2019" class="hover-effect">
-                                <img src="http://cdn.bismillah-hajj.com/sites/bhu/img/" class="stc-pkg-img" alt="AQSA February 2019" />
-                            </a>
-                        </figure>
-                        <div class="details">
-                            <span class="price">
-                                <small>Offer Price</small>
-                                &#163;795.00
-                            </span>
-                            <h4 class="box-title text-center">AQSA February 2019</h4>
-                            <div class="feedback">
-                                <div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="5 Stars"><span style="width: 100%;" class="five-stars"></span></div>
-                            </div>
-                            <div class="description">The Journey to Al Aqsa in the February Half term holidays. </div>
-                            <div class="action">
-                                <a class="button btn-small green full-width" href="/package/aqsa-february-2019" >Show Package Detail</a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-
-
-
-    
-
-    <div class="section contact-us parallax bg-fixed bg-global-map">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5">
-                    <div class="fb-page" data-href="https://www.facebook.com/Bismillah-Hajj-Umrah-Ltd-1533795530259044/" data-width="700" data-height="596" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>
-                </div>
-                <div class="col-sm-7">
-                    <div class="travelo-box box-full">
-                        <div id="form-home-contact-container" class="contact-form">
-                            <h2>Send us a Message</h2>
-                            <form id="form-home-contact" class="large-label" method="POST" action="/ContactUs/SendMessage">
-                                <div class="row">
-                                    <div class="col-xs-12">
-                                        <div class="form-group">
-                                            <label class="required" for="Name">Your Name</label>
-                                            <input class="input-text full-width" data-val="true" data-val-required="&#39;Name&#39; field is required" id="Name" name="Name" type="text" value="" />
-                                            <span class="field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true"></span>
-                                        </div>
-                                        <div class="form-group">
-                                            <label class="required" for="Email">Your Email</label>
-                                            <input class="input-text full-width" data-val="true" data-val-required="&#39;Email&#39; field is required" id="Email" name="Email" type="text" value="" />
-                                            <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
-                                        </div>
-                                        <div class="form-group">
-                                            <label class="required" for="Subject">Subject</label>
-                                            <input class="input-text full-width" data-val="true" data-val-required="&#39;Subject&#39; field is required" id="Subject" name="Subject" type="text" value="" />
-                                            <span class="field-validation-valid" data-valmsg-for="Subject" data-valmsg-replace="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12">
-                                        <div class="form-group">
-                                            <label class="required" for="Message">Message</label>
-                                            <span class="field-validation-valid" data-valmsg-for="Message" data-valmsg-replace="true"></span>
-                                            <textarea class="input-text full-width" cols="20" data-val="true" data-val-required="&#39;Message&#39; field is required" id="Message" name="Message" placeholder="Write your query here" rows="8">
-                                            </textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12">
-                                        <button type="submit" class="button full-width btn-large green">Send Message</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <div class="section bg-madina-night">
-        <div class="container">
-            <div class="row image-box style7">
-                <div class="col-sms-6 col-sm-6 col-md-3">
-                    <article class="box">
-                        <figure class="middle-block">
-                            <img src="img/low-price.jpg" alt="Low Price Gurantee" class="middle-item" />
-                            <span class="opacity-wrapper"></span>
-                        </figure>
-                        <div class="details">
-                            <h4><a href="#">Best Price Guarantee</a></h4>
-                            <p>
-                                We're so confident you'll find the best price for your trip here with Bismillah Team that we guarantee it. Find a Cheaper Flight, Hotel, Hajj Package, Rental Car.<br>
-                                <br>
-                                <br>
-                            </p>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sms-6 col-sm-6 col-md-3">
-                    <article class="box">
-                        <figure class="middle-block">
-                            <img src="img/insurance.jpg" alt="Travel Insurance" class="middle-item" />
-                            <span class="opacity-wrapper"></span>
-                        </figure>
-                        <div class="details">
-                            <h4><a href="#">Travel Insurance</a></h4>
-                            <p>
-                                We want to help you find a great deal on your travel insurance.
-                                <br />
-                                <br />
-                                <br />
-                                <br />
-                                <br />
-                                <br />
-                            </p>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sms-6 col-sm-6 col-md-3">
-                    <article class="box">
-                        <figure class="middle-block">
-                            <img src="img/why-us.jpg" alt="Who book with us" class="middle-item" />
-                            <span class="opacity-wrapper"></span>
-                        </figure>
-                        <div class="details">
-                            <h4><a href="#">Why Chose Us</a></h4>
-                            <p>
-                                Whatever the interests of your group and whatever your needs, we can create a customized Package especially for you! Indeed we will provide the services that you want, services such as airfare and accommodation.
-                            </p>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sms-6 col-sm-6 col-md-3">
-                    <article class="box">
-                        <figure class="middle-block">
-                            <img src="img/help.jpg" alt="Need Help ?" class="middle-item" />
-                            <span class="opacity-wrapper"></span>
-                        </figure>
-                        <div class="details">
-                            <h4><a href="#">Need Help?</a></h4>
-                            <p>
-                                If you need any type of help<br>
-                                Please Contact on +44 20 7377 0119
-                                <br>
-                                or Mail us on info@bismillah-hajj.com<br>
-                                <br>
-                                <br>
-                                <br>
-                            </p>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-
-
-
-<!-- <footer id="footer">
-    <div class="footer-wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6 col-md-3">
-                    <h2>Discover</h2>
-                    <ul class="discover triangle hover row">
-                        <li class="col-xs-6"><a href="/about-us">About</a></li>
-                        <li class="col-xs-6"><a href="/contact-us">Contact Us</a></li>
-                        <li class="col-xs-6"><a href="/careers">Careers</a></li>
-                        <li class="col-xs-6"><a href="/sitemap">Sitemap</a></li>
-                        <li class="col-xs-6"><a href="/passport-visa">Passport &amp; Visa</a></li>
-                        <li class="col-xs-6"><a href="/travel-extra">Travel Extra</a></li>
-                        <li class="col-xs-6"><a href="/atol-protection">ATOL Protection</a></li>
-                        <li class="col-xs-6"><a href="/cookie-policy">Cookie Policy</a></li>
-                        <li class="col-xs-12"><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <h3>You are safe with us</h3>
-                    <img src="img/atol-9908.png" style="width: 70px;" />
-                    <h6>All <strong>Flights</strong> and <strong>Packages</strong> are protected under ATOL.</h6>
-                    <h3 style="margin-top: 15px;">Secure Payment with</h3>
-                    <div>
-                        <img src="img/sage-paynew.png" />
-                        <img src="img/verisign.png" />
-                    </div>
-                    <h3 style="margin-top: 15px;">We Accept</h3>
-                    <div>
-                        <img src="img/visa.png" />
-                        <img src="img/master-card.png" />
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <h2>Mailing List</h2>
-                    <p>
-                        Sign up for our mailing list to get latest updates and offers.
-                        <br />
-                        We respect your privacy.
-                    </p>
-                    
-                    <form id="form-subscription" class="form-inline" method="POST" action="/Newsletter/Subscribe">
-                        <input type="text" name="Email" class="input-text" value="" placeholder="Your E-Mail"/>
-                        <button type="submit" class="icon-check" style="top: 13px;"></button>
-                    </form>
-                    <div id="subscription-response">
-
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <h2>About Bismillah Hajj &amp; Umrah</h2>
-                    <p>Bismillah Hajj &amp; Umrah is a London based Hajj, Umrah and Islamic Tours operator. We pride ourselves on exceptional service.</p>
-                    <br />
-                    <address class="contact-details">
-                        <span class="contact-phone"><i class="soap-icon-phone"></i>+44 20 7377 0119</span>
-                        <br />
-                        <a href="mailto:info@bismillah-hajj.com" class="contact-email">info@bismillah-hajj.com</a>
-                    </address>
-                    <ul class="social-icons clearfix">
-                        <li class="twitter"><a title="twitter" href="https://twitter.com/hajj_um" target="_blank" data-toggle="tooltip"><i class="soap-icon-twitter"></i></a></li>
-                        <li class="facebook"><a title="facebook" href="https://www.facebook.com/www.bismillahhajjandumrahltdcompany/info/?entry_point=about_section_header&tab=page_info" target="_blank" data-toggle="tooltip"><i class="soap-icon-facebook"></i></a></li>
-                        <li class="youtube"><a title="youtube" href="https://www.youtube.com/channel/UCDWUkoQvSp4rHOJgGz44UBA " target="_blank" data-toggle="tooltip"><i class="soap-icon-youtube"></i></a></li>
-                        
-                        
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bottom gray-area">
-        <div class="container">
-            <div class="logo pull-left">
-                <a href="/" title="Bismillah Hajj &amp; Umrah">
-                    <img src="img/logo.png" alt="Bismillah Hajj &amp; Umrah" style="height: 57px;" />
-                </a>
-            </div>
-            <div class="pull-right">
-                <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i class="soap-icon-longarrow-up circle"></i></a>
-            </div>
-            <div class="copyright pull-right">
-                <p>&copy; 2015 &ndash; 2016 Bismillah Hajj &amp; Umrah</p>
-            </div>
-        </div>
-    </div>
-</footer> -->
-</div>
 
 <script src="js/jquery.min.js"></script>
 
 <script src="js/bootstrap.js"></script>
 
-<script type="text/javascript">
-    tjq = jQuery;
-</script>
 <script src="js/modernizr-2.7.1.js"></script>
 
-<script src="js/jquery-migrate-1.2.1.min.js"></script>
+<!-- <script src="js/jquery-migrate-1.2.1.min.js"></script> -->
 
 <script src="js/jquery.placeholder.min.js"></script>
 
@@ -770,8 +488,12 @@
 <script src="js/core.js?v=xvykdfxd_WTF_azJQnk5kpGxS8pR2YpDq_wvW65l9MM1"></script>
 
 
+<!-- new ticker -->
+<script src="js/ticker.js"></script>
+
 <!-- slider -->
 <script src="src/skdslider.min.js"></script>
+
 <script type="text/javascript">
     jQuery(document).ready(function(){
         jQuery('#home-slider').skdslider({
@@ -785,5 +507,57 @@
       });
     });
 </script>
+
+
+<!-- small slider -->
+<script src="js/jquery.flexisel.js"></script>
+<script type="text/javascript">
+    jQuery(window).on('load', function(){
+        jQuery("#flexiselDemo2").show();
+        jQuery("#flexiselDemo2").flexisel({
+            visibleItems: 8,
+            itemsToScroll: 1,
+            animationSpeed: 800,
+            infinite: true,
+            navigationTargetSelector: true,
+            autoPlay: {
+                enable: true,
+                interval: 2000,
+                pauseOnHover: true
+            },
+            responsiveBreakpoints: { 
+                portrait: { 
+                    changePoint:480,
+                    visibleItems: 1,
+                    itemsToScroll: 1
+                }, 
+                landscape: { 
+                    changePoint:640,
+                    visibleItems: 2,
+                    itemsToScroll: 2
+                },
+                tablet: { 
+                    changePoint:768,
+                    visibleItems: 4,
+                    itemsToScroll: 4
+                }
+            },
+            loaded: function(object) {
+                console.log('Slider loaded...');
+            },
+            before: function(object){
+                console.log('Before transition...');
+            },
+            after: function(object) {
+                console.log('After transition...');
+            },
+            resize: function(object){
+                console.log('After resize...');
+            }
+        });
+    });
+</script>
+
+
 </body>
 </html>
