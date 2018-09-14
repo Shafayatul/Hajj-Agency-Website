@@ -72,7 +72,7 @@
                 
             </ul> -->
             <div style="width: 100%; display: block; overflow: hidden;">
-                <div style="width: 80%; float: left">
+                <div style="width: 70%; float: left">
                     <div class="ticker-container">
                       <div class="ticker-caption">
                         <p>Scheduled Tour</p>
@@ -98,24 +98,24 @@
                       </ul>
                     </div>
                 </div>
-                <div style="width: 20%; float: right;">
+                <div style="width: 20%; float: left;">
                     <ul class="quick-menu pull-left">
                         <li><a href="tel:+44 20 7377 0119"><i class="fa fa-phone"></i>&nbsp;&nbsp;01919929292, 01913920240</a></li>
                     </ul>
                 </div>
-            </div>
+                <div style="width: 10%; float: right; margin-top: 4px">
+                    <img src="img/bd.png" > / <img src="img/eng.jpg" >
+                </div>
 
-            <!-- <ul class="quick-menu pull-right">
-                <li><a href="/Booking/MyBooking">My Bookings</a></li>
-            </ul> -->
+            </div>
         </div>
     </div>
 
     <div class="main-header">
 
-        <a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">
+      <!--   <a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">
             Mobile Menu Toggle
-        </a>
+        </a> -->
 
         <div class="container">
             <h1 class="logo navbar-brand">
@@ -131,36 +131,36 @@
     <a href="/">Home</a>
 </li>
 <li class="menu-item-has-children">
-    <a href="/about-us">About Us</a>
+    <a href="/">About Us</a>
 </li>
 
 <li class="menu-item-has-children">
     <a href="/page/hajj">Hajj</a>
     <ul>
-        <li><a href="/package/hajj-2019">HAJJ 2019 </a></li>
-        <li><a href="/package/hajj-2019-non-shifting-5-package">Hajj 2019 Non Shifting 5* Package </a></li>
+        <li><a href="/">HAJJ 2019 </a></li>
+        <li><a href="/">Hajj 2019 Non Shifting 5* Package </a></li>
         
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/page/umrah">Umrah</a>
+    <a href="/">Umrah</a>
     <ul>
-            <li><a href="/package/easter-umrah-2019">Easter Umrah 2019 </a></li>
-            <li><a href="/package/february-aqsa-2019">FEBRUARY AQSA 2019</a></li>
-            <li><a href="/package/october-umrah-2018-half-term-holidays-sold-out">October Umrah 2018 Half Term Holidays (SOLD OUT)</a></li>
-            <li><a href="/package/december-school-holidays-group-umrah-package-2018">December School Holidays Group Umrah Package 2018</a></li>
-            <li><a href="/package/february-umrah-package-2019">February Umrah Package 2019</a></li>
+            <li><a href="/">Easter Umrah 2019 </a></li>
+            <li><a href="/">FEBRUARY AQSA 2019</a></li>
+            <li><a href="/">October Umrah 2018 Half Term Holidays (SOLD OUT)</a></li>
+            <li><a href="/">December School Holidays Group Umrah Package 2018</a></li>
+            <li><a href="/">February Umrah Package 2019</a></li>
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/page/islamic">Islamic Tours</a>
+    <a href="/">Islamic Tours</a>
     <ul>
-            <li><a href="/package/springlake-leisure">Springlake Leisure</a></li>
-            <li><a href="/package/aqsa-february-2019">AQSA February 2019</a></li>
+            <li><a href="/">Springlake Leisure</a></li>
+            <li><a href="/">AQSA February 2019</a></li>
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/contact-us">Contact Us</a>
+    <a href="/">Contact Us</a>
 </li>
                 </ul>
             </nav>
@@ -173,32 +173,32 @@
     <a href="/">Home</a>
 </li>
 <li class="menu-item-has-children">
-    <a href="/about-us">About Us</a>
+    <a href="/">About Us</a>
 </li>
 <li class="menu-item-has-children megamenu-menu">
-    <a href="/airlines">Airlines</a>
+    <a href="/">Airlines</a>
     <div class="megamenu-wrapper container" data-items-per-column="3">
         <div class="megamenu-holder">
             <ul class="megamenu">
                 <li class="menu-item-has-children">
                     
                     <ul class="clearfix">
-                        <li><a href="/airlines/air-france">Air France</a></li>
-                        <li><a href="/airlines/air-india">Air India</a></li>
-                        <li><a href="/airlines/asiana-airlines">Asiana Airlines</a></li>
-                        <li><a href="/airlines/cathay-pacific">Cathay Pacific</a></li>
-                        <li><a href="/airlines/etihad-airways">Ehihad Airways</a></li>
+                        <li><a href="/">Air France</a></li>
+                        <li><a href="/">Air India</a></li>
+                        <li><a href="/">Asiana Airlines</a></li>
+                        <li><a href="/">Cathay Pacific</a></li>
+                        <li><a href="/">Ehihad Airways</a></li>
 
-                        <li><a href="/airlines/emirates">Emirates</a></li>
-                        <li><a href="/airlines/kuwait-airways">Kuwait Airways</a></li>
-                        <li><a href="/airlines/oman-air">Oman Air</a></li>
-                        <li><a href="/airlines/philippine-airlines">Philippine Airlines</a></li>
-                        <li><a href="/airlines/pia">PIA</a></li>
+                        <li><a href="/">Emirates</a></li>
+                        <li><a href="/">Kuwait Airways</a></li>
+                        <li><a href="/">Oman Air</a></li>
+                        <li><a href="/">Philippine Airlines</a></li>
+                        <li><a href="/">PIA</a></li>
 
-                        <li><a href="/airlines/qatar-airways">Qatar Airways</a></li>
-                        <li><a href="/airlines/saudi-arabian-airlienes">Saudi Arabian Airlines</a></li>
-                        <li><a href="/airlines/singapore-airlines">Singapore Airlines</a></li>
-                        <li><a href="/airlines/thai-airways">Thai Airways</a></li>
+                        <li><a href="/">Qatar Airways</a></li>
+                        <li><a href="/">Saudi Arabian Airlines</a></li>
+                        <li><a href="/">Singapore Airlines</a></li>
+                        <li><a href="/">Thai Airways</a></li>
                     </ul>
                 </li>
             </ul>
@@ -206,37 +206,37 @@
     </div>
 </li>
 <li class="menu-item-has-children">
-    <a href="/page/hajj">Hajj</a>
+    <a href="/">Hajj</a>
     <ul>
-            <li><a href="/package/hajj-2019">HAJJ 2019 </a></li>
-            <li><a href="/package/hajj-2019-non-shifting-5-package">Hajj 2019 Non Shifting 5* Package </a></li>
+            <li><a href="/">HAJJ 2019 </a></li>
+            <li><a href="/">Hajj 2019 Non Shifting 5* Package </a></li>
         
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/page/umrah">Umrah</a>
+    <a href="/">Umrah</a>
     <ul>
-            <li><a href="/package/easter-umrah-2019">Easter Umrah 2019 </a></li>
-            <li><a href="/package/february-aqsa-2019">FEBRUARY AQSA 2019</a></li>
-            <li><a href="/package/october-umrah-2018-half-term-holidays-sold-out">October Umrah 2018 Half Term Holidays (SOLD OUT)</a></li>
-            <li><a href="/package/december-school-holidays-group-umrah-package-2018">December School Holidays Group Umrah Package 2018</a></li>
-            <li><a href="/package/february-umrah-package-2019">February Umrah Package 2019</a></li>
+            <li><a href="/">Easter Umrah 2019 </a></li>
+            <li><a href="/">FEBRUARY AQSA 2019</a></li>
+            <li><a href="/">October Umrah 2018 Half Term Holidays (SOLD OUT)</a></li>
+            <li><a href="/">December School Holidays Group Umrah Package 2018</a></li>
+            <li><a href="/">February Umrah Package 2019</a></li>
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/page/islamic">Islamic Tours</a>
+    <a href="">Islamic Tours</a>
     <ul>
-            <li><a href="/package/springlake-leisure">Springlake Leisure</a></li>
-            <li><a href="/package/aqsa-february-2019">AQSA February 2019</a></li>
+            <li><a href="">Springlake Leisure</a></li>
+            <li><a href="">AQSA February 2019</a></li>
     </ul>
 </li>
 <li class="menu-item-has-children">
-    <a href="/contact-us">Contact Us</a>
+    <a href="/">Contact Us</a>
 </li>
             </ul>
 
             <ul class="mobile-topnav container">
-                <li><a href="/Booking/MyBooking">My Bookings</a></li>
+                <li><a href="/">My Bookings</a></li>
             </ul>
 
         </nav>
@@ -266,13 +266,13 @@
       <img src="slides/3.jpg" />
       <!--NO Description Here-->
    </div>
-   <div class="slide">
+<!--    <div class="slide">
      <img src="slides/4.jpg" />
      <div class="slide-desc">
       <h2>Slider Title 4</h2>
       <p>Demo description here. Demo description here. Demo description here. Demo description here. Demo description here. <a class="more" href="#">more</a></p>
      </div>
-  </div>
+  </div> -->
 
  <div class="slide">
    <img src="slides/5.jpg" />
@@ -469,7 +469,108 @@
             </div>
         </div>
     </div>
+
 </section>
+
+<br><br><br>
+<!-- <div id="small-margin-slider"></div> -->
+
+<footer id="footer">
+    <div class="footer-wrapper">
+        <div class="container footer-wrapper-container">
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <h2>Menu</h2>
+                    <ul class="discover triangle hover row">
+                        <li class="col-xs-6"><a href="/about-us">About</a></li>
+                        <li class="col-xs-6"><a href="/contact-us">Contact Us</a></li>
+                        <li class="col-xs-6"><a href="/careers">Careers</a></li>
+                        <li class="col-xs-6"><a href="/sitemap">Sitemap</a></li>
+                        <li class="col-xs-6"><a href="/sitemap">Sitemap</a></li>
+                        <li class="col-xs-6"><a href="/travel-extra">Travel Extra</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <h2>Recent Tour</h2>
+                    <div class="row">
+                        <ul class="discover triangle hover row">
+                            <li class="col-xs-12">
+                                <a href="/about-us">
+                                    <img src="img/footer-bg.jpg" class="img-thumbnail" alt="Cinque Terre">
+                                    Title of the next tour
+                                </a>
+                            </li>
+                            <li class="col-xs-12">
+                                <a href="/about-us">
+                                    <img src="img/footer-bg.jpg" class="img-thumbnail" alt="Cinque Terre">
+                                    Title of the next tour
+                                </a>
+                            </li>
+                            <li class="col-xs-12">
+                                <a href="/about-us">
+                                    <img src="img/footer-bg.jpg" class="img-thumbnail" alt="Cinque Terre">
+                                    Title of the next tour
+                                </a>
+                            </li>
+                            <li class="col-xs-12">
+                                <a href="/about-us">
+                                    <img src="img/footer-bg.jpg" class="img-thumbnail" alt="Cinque Terre">
+                                    Title of the next tour
+                                </a>
+                            </li>
+
+                        </ul>                        
+                    </div>
+
+                    
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <h2>About Us</h2>
+                    <p>Bismillah Hajj &amp; Umrah is a London based Hajj, Umrah and Islamic Tours operator. We pride ourselves on exceptional service.</p>
+                    <br>
+                    <address class="contact-details">
+                        <span class="contact-phone"><i class="fa fa-phone-square"></i> +88001203123</span>
+                        <br>
+                        <a href="mailto:info@EMAIL.com" class="contact-email">info@demo.com</a>
+                    </address>
+                    <ul class="social-icons clearfix">
+                        <li class="twitter"><a title="twitter" href="" target="_blank" data-toggle="tooltip"><i class="fa fa-twitter"></i></a></li>
+                        <li class="facebook"><a title="facebook" href="" target="_blank" data-toggle="tooltip"><i class="fa fa-facebook-f"></i></a></li>
+                        <li class="youtube"><a title="youtube" href="" target="_blank" data-toggle="tooltip"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <h2>Connected With</h2>
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    <img src="img/master-card.png" class="img-thumbnail" alt="Cinque Terre">
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="bottom gray-area">
+        <div class="container">
+            <div class="logo pull-left">
+                <a href="/" title="Bismillah Hajj &amp; Umrah">
+                    <img src="img/logo.png" alt="Bismillah Hajj &amp; Umrah" style="height: 57px;">
+                </a>
+            </div>
+            <div class="pull-right">
+                <a id="back-to-top" href="#" class="animated bounce" data-animation-type="bounce" style="animation-duration: 1s; visibility: visible;"><i class="soap-icon-longarrow-up circle"></i></a>
+            </div>
+            <div class="copyright pull-right">
+                <p>© Khadhem Hajj Group</p>
+            </div>
+        </div>
+    </div>
+</footer>
 
 
 <script src="js/jquery.min.js"></script>
@@ -541,7 +642,8 @@
                     visibleItems: 4,
                     itemsToScroll: 4
                 }
-            },
+            }
+            /*,
             loaded: function(object) {
                 console.log('Slider loaded...');
             },
@@ -553,7 +655,7 @@
             },
             resize: function(object){
                 console.log('After resize...');
-            }
+            }*/
         });
     });
 </script>
